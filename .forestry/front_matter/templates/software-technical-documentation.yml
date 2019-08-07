@@ -1,0 +1,22 @@
+---
+label: Software Technical Documentation
+hide_body: false
+fields:
+- name: keywords
+  type: text
+  config:
+    required: false
+  label: Keywords
+  description: Keywords to group like pages together
+- name: product
+  type: text
+  config:
+    required: true
+  label: Product
+- name: version
+  type: text
+  config:
+    required: true
+  label: Version
+pages:
+- _software/creating_actor_in_actor_stack.md

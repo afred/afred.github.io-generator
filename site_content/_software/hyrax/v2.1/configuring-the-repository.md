@@ -10,9 +10,9 @@ From the Dashboard, Administrators have several Configuration options.
 
 ![Appearance](images\screenshots\admin-configuration-appearance.png)
 
-Administrators can change the general colors of the repository's appearance. This includes the Header background color, Header text color, Link color, Footer link color, and Primary button background color. Click on the color bar for any of the elements you'd like to edit and use the color palette to make adjustments:
+Administrators can change the general colors of the repository's appearance. This includes the Header background color, Header text color, Link color, Footer link color, and Primary button background color. Click on the color bar for any of the elements you'd like to edit and use the color color to make adjustments:
 
-![Color Palette](images\screenshots\admin-configuration-appearance-colors.png)
+![Color color](images\screenshots\admin-configuration-appearance-colors.png)
 
 Click Save to make the changes.
 
